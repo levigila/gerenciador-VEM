@@ -4,7 +4,7 @@
 O **Urbana-PE** é uma aplicação desenvolvida para facilitar o gerenciamento de usuários e cartões de transporte na cidade do Recife. O sistema foi projetado para ser uma mão na roda para os administradores que precisam gerenciar milhares de cartões, evitando fraudes e uso indevido, como o uso excessivo de cartões ou recebimento indevido de valores de verba pública por meio de cartões passe-livre. 
 
 ## Objetivo
-A ideia principal do projeto é garantir que cada usuário tenha acesso ao seu cartão de forma justa e que todos os cartões sejam utilizados corretamente, reduzindo as irregularidades e proporcionando um controle mais eficaz sobre os benefícios concedidos.
+A ideia principal do projeto é garantir o fácil acesso aos cartões de forma rápida e que todos os cartões sejam utilizados corretamente, reduzindo as irregularidades e proporcionando um controle mais eficaz sobre os benefícios concedidos.
 
 ## Funcionalidades
 - **Gerenciamento de Usuários**:
@@ -20,14 +20,19 @@ A ideia principal do projeto é garantir que cada usuário tenha acesso ao seu c
 
 - **Painel Administrativo**:
   - Interface intuitiva para visualização de todos os usuários e seus respectivos cartões.
+    
+- **Futuras Implementações**:
   - Filtros para busca rápida de usuários e cartões, facilitando a gestão.
   - Alertas e notificações para possíveis irregularidades ou usos indevidos dos cartões.
 
 ## Tecnologias Utilizadas
-- **Backend**: Spring Boot, Java
-- **Frontend**: Angular
-- **Banco de Dados**: PostgreSQL
+- **Backend**: Spring Boot 3.0 , Java
+- **Frontend**: Angular 17
+- **Banco de Dados Relacional**: PostgreSQL
 - **Gerenciamento de Migrações**: Liquibase
+- **Responsividade**: CSS
+- **Processo de Build**: Maven
+- **Persistência de dados**: JPA
 
 ## Como Iniciar o Projeto
 
