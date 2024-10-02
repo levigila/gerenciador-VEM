@@ -1,7 +1,7 @@
-# Projeto Urbana-PE
+# Projeto Gerenciador VEM (Urbana-PE)
 
 ## Descrição
-O **Urbana-PE** é uma aplicação desenvolvida para facilitar o gerenciamento de usuários e cartões de transporte na cidade do Recife. O sistema foi projetado para ser uma mão na roda para os administradores que precisam gerenciar milhares de cartões, evitando fraudes e uso indevido, como o uso excessivo de cartões ou recebimento indevido de valores de verba pública por meio de cartões passe-livre. 
+O **Gerenciador VEM** é uma aplicação desenvolvida para facilitar o gerenciamento de usuários e cartões de transporte na cidade do Recife. O sistema foi projetado para ser uma mão na roda para os administradores que precisam gerenciar milhares de cartões, evitando fraudes e uso indevido, como o uso excessivo de cartões ou recebimento indevido de valores de verba pública por meio de cartões passe-livre. 
 
 ## Objetivo
 A ideia principal do projeto é garantir o fácil acesso aos cartões de forma rápida e que todos os cartões sejam utilizados corretamente, reduzindo as irregularidades e proporcionando um controle mais eficaz sobre os benefícios concedidos.
